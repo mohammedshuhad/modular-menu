@@ -19,7 +19,7 @@ void ActionMenuItem::draw(u8g2_t *u8g2, int y) {
 }
 
 int ActionMenuItem::getHeight(void) {
-    return 10;
+    return 12;
 }
 
 void ActionMenuItem::scroll(int scrollCount) {
